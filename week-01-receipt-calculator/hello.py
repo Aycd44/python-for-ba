@@ -1,1 +1,1 @@
-Print("Hello, requirements")
+print("Hello, requirements")
